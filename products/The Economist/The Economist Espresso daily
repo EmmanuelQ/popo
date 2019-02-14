@@ -1,8 +1,42 @@
 {
   "category": "product",
   "attributes": {
-    "Product_Format__c": "Digital Only",
-    "Family": "The Economist",
+    "0": {
+      "name": "Product_Format__c",
+      "label": "Product Format",
+      "type": "picklist",
+      "options": [
+        {
+          "id": "digital",
+          "label": "Digital Only"
+        },
+        {
+          "id": "print",
+          "label": "Print Only"
+        },
+        {
+          "id": "print_digital",
+          "label": "Print + Digital"
+        }
+      ]
+    },
+    "1": {
+      "name": "Family",
+      "label": "Product Family",
+      "type": "picklist",
+      "options": [
+        {
+          "id": "economist",
+          "label": "The Economist"
+        },
+        {
+          "id": "limio",
+          "label": "Limio"
+        }
+      ]
+    },
+    "Product_Format__c": "Print Only",
+    "Family": "Limio",
     "sku": "The Economist Espresso daily"
   },
   "baseTemplate": "products/Product",
