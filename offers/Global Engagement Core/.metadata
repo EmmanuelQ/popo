@@ -8,15 +8,18 @@
     "Refundable__c": false,
     "primary_color": "#F47C24",
     "secondary_color": "#2b2145",
-    "tertiary_color": "#c03467"
+    "tertiary_color": "#c03467",
+    "wizard": true
   },
   "validFrom": "20181215",
   "validTo": "20190215",
   "assets": [],
   "status": "approved",
-  "description": "Campaign for the christmas season!",
+  "description": "<p>Campaign for the christmas season!</p>",
   "tags": [
     "/tags/Telemarketing/1CKIM"
   ],
-  "comments": []
+  "comments": [],
+  "headline": "",
+  "subline": ""
 }
