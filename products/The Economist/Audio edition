@@ -1,9 +1,88 @@
 {
   "category": "product",
   "attributes": {
-    "Product_Format__c": "Digital Only",
+    "Product_Format__c": "Print Only",
     "Family": "The Economist",
-    "sku": "Audio edition"
+    "sku": "Audio edition",
+    "category": "template",
+    "general_params": [
+      {
+        "name": "name",
+        "type": "string",
+        "label": "Name"
+      }
+    ],
+    "attributes": [
+      {
+        "name": "Product_Format__c",
+        "label": "Product Format",
+        "type": "picklist",
+        "options": [
+          {
+            "id": "digital",
+            "label": "Digital Only"
+          },
+          {
+            "id": "print",
+            "label": "Print Only"
+          },
+          {
+            "id": "print_digital",
+            "label": "Print + Digital"
+          }
+        ]
+      },
+      {
+        "name": "Family",
+        "label": "Product Family",
+        "type": "picklist",
+        "options": [
+          {
+            "id": "economist",
+            "label": "The Economist"
+          },
+          {
+            "id": "limio",
+            "label": "Limio"
+          }
+        ]
+      }
+    ],
+    "integrations": [
+      {
+        "type": "zuora",
+        "attributes": [
+          {
+            "name": "productRatePlanId",
+            "label": "Rate Plan Id",
+            "type": "string"
+          },
+          {
+            "name": "billingEntity",
+            "label": "Billing Entity",
+            "type": "string"
+          }
+        ]
+      },
+      {
+        "type": "salesforce",
+        "attributes": [
+          {
+            "name": "productId",
+            "label": "Product Id",
+            "type": "string"
+          },
+          {
+            "name": "name",
+            "label": "Name",
+            "type": "string"
+          }
+        ]
+      }
+    ],
+    "path": "/config/templates/products",
+    "name": "Product",
+    "tree_url": "/limio/catalogs/1/tree/config/templates/products"
   },
   "baseTemplate": "products/Product",
   "integration": {
