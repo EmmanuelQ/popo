@@ -1,0 +1,11 @@
+{
+  "url": "/products/The Economist/tinder",
+  "segments": [],
+  "products": [],
+  "price": [],
+  "attributes": {
+    "Product_Format__c": "Digital Only"
+  },
+  "name": "tinder",
+  "baseTemplate": "/config/templates/products"
+}
