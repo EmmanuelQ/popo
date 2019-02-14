@@ -41,6 +41,11 @@
           "label": "Limio"
         }
       ]
+    },
+    {
+      "name": "bobby",
+      "type": "numeric",
+      "label": "knuckles"
     }
   ],
   "integrations": [
