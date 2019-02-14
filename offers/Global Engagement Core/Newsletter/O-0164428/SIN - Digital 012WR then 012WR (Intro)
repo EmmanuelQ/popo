@@ -1,0 +1,72 @@
+{
+  "products": [
+    "/products/The Economist/Digital edition",
+    "/products/The Economist/Audio edition",
+    "/products/The Economist/The Economist Espresso daily",
+    "/products/The Economist/Economist.com",
+    "/products/The Economist/Online archive since 1997"
+  ],
+  "segments": [
+    "/segments/regions/ASIA/SG",
+    "/segments/channels/online"
+  ],
+  "validFrom": "",
+  "validTo": "",
+  "baseTemplate": "offers/Offer",
+  "price": [
+    {
+      "name": "charge_1",
+      "label": "Charge 1",
+      "value": "25.00",
+      "currencyCode": "SGD",
+      "type": "onetime",
+      "trigger": "order_date",
+      "repeat_interval": null,
+      "repeat_interval_type": "weeks",
+      "repeat_count": null,
+      "delay_interval": null,
+      "attributes": []
+    },
+    {
+      "name": "charge_2",
+      "label": "Charge 2",
+      "value": "55.00",
+      "currencyCode": "SGD",
+      "type": "recurring",
+      "trigger": "subscription_start",
+      "repeat_interval": 12,
+      "repeat_interval_type": "weeks",
+      "repeat_count": 1,
+      "delay_interval": 0,
+      "attributes": []
+    },
+    {
+      "name": "charge_3",
+      "label": "Charge 3",
+      "value": "115.00",
+      "currencyCode": "SGD",
+      "type": "recurring",
+      "trigger": "delay",
+      "repeat_interval": 12,
+      "repeat_interval_type": "weeks",
+      "repeat_count": null,
+      "delay_interval": 12,
+      "attributes": []
+    }
+  ],
+  "associations": {
+    "upSell": [
+      "/C-0001451/P-0042380/O-0164113/UK - Print 153W"
+    ],
+    "crossSell": [],
+    "save": []
+  },
+  "attributes": {
+    "Payment_Term__c": "Due Upon Receipt",
+    "OfferItem_Code__c": "OI-0164440",
+    "Auto_Renewal__c": "Yes",
+    "Initial_Term__c": "012W",
+    "Offer_Type1__c": "Gift",
+    "Rate_Type__c": "N/A"
+  }
+}

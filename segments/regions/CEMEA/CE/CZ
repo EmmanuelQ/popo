@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "CZ",
+    "3Code": "CZE",
+    "iso3166Code": "ISO 3166-2:CZ",
+    "isoName": "Czechia",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

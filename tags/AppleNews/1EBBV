@@ -1,0 +1,18 @@
+{
+  "attributes": {
+    "CFCCode": "1EBBV",
+    "Region__c": "LA",
+    "Offer_Type__c": "gift",
+    "Offer_Item_Type__c": "upsell",
+    "EntryPointCode": "AppleNews",
+    "Active__c": true,
+    "Promotion__c": "7012F000000C6IkQAK",
+    "Payment_Terms__c": "0",
+    "Name": "1EBBV",
+    "Effort_Week__c": "0",
+    "Code__c": "E-0178311",
+    "Channel_Code__c": "Conversion - The Economist apps - Engagement - EGAP"
+  },
+  "baseTemplate": "tags/Tag",
+  "reference": "?Promo_Code__c=P-0152716"
+}

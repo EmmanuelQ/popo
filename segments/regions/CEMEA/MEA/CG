@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "CG",
+    "3Code": "COG",
+    "iso3166Code": "ISO 3166-2:CG",
+    "isoName": "Congo",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "MP",
+    "3Code": "MNP",
+    "iso3166Code": "ISO 3166-2:MP",
+    "isoName": "Northern Mariana Islands",
+    "isoRegion": "Oceania",
+    "isoSubRegion": "Micronesia"
+  },
+  "baseTemplate": "segments/Segment"
+}

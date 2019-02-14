@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "PT",
+    "3Code": "PRT",
+    "iso3166Code": "ISO 3166-2:PT",
+    "isoName": "Portugal",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

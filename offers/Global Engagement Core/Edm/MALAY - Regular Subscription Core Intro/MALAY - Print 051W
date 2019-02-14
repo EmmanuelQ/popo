@@ -1,0 +1,68 @@
+{
+  "products": [
+    "/products/The Economist/Weekly print edition"
+  ],
+  "segments": [
+    "/segments/regions/ASIA/MY/MY",
+    "/segments/channels/online"
+  ],
+  "validFrom": "",
+  "validTo": "",
+  "baseTemplate": "offers/Offer",
+  "price": [
+    {
+      "name": "charge_1",
+      "label": "Charge 1",
+      "value": "25.00",
+      "currencyCode": "MYR",
+      "type": "onetime",
+      "trigger": "order_date",
+      "repeat_interval": null,
+      "repeat_interval_type": "weeks",
+      "repeat_count": null,
+      "delay_interval": null,
+      "attributes": []
+    },
+    {
+      "name": "charge_2",
+      "label": "Charge 2",
+      "value": "780.00",
+      "currencyCode": "MYR",
+      "type": "recurring",
+      "trigger": "subscription_start",
+      "repeat_interval": 52,
+      "repeat_interval_type": "weeks",
+      "repeat_count": 1,
+      "delay_interval": 0,
+      "attributes": []
+    },
+    {
+      "name": "charge_3",
+      "label": "Charge 3",
+      "value": "975.00",
+      "currencyCode": "MYR",
+      "type": "recurring",
+      "trigger": "delay",
+      "repeat_interval": 52,
+      "repeat_interval_type": "weeks",
+      "repeat_count": null,
+      "delay_interval": 52,
+      "attributes": []
+    }
+  ],
+  "associations": {
+    "upSell": [
+      "/C-0001451/P-0042380/O-0164113/UK - Print 153W"
+    ],
+    "crossSell": [],
+    "save": []
+  },
+  "attributes": {
+    "Payment_Term__c": "Due Upon Receipt",
+    "OfferItem_Code__c": "OI-0164312",
+    "Auto_Renewal__c": "No",
+    "Initial_Term__c": "052W",
+    "Offer_Type1__c": "Regular",
+    "Rate_Type__c": "N/A"
+  }
+}

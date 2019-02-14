@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "MF",
+    "3Code": "MAF",
+    "iso3166Code": "ISO 3166-2:MF",
+    "isoName": "Saint Martin (French part)",
+    "isoRegion": "Americas",
+    "isoSubRegion": "Latin America and the Caribbean"
+  },
+  "baseTemplate": "segments/Segment"
+}

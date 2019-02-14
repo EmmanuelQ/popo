@@ -1,0 +1,17 @@
+{
+  "attributes": {
+    "CFCCode": "1AQUV",
+    "Region__c": "LA",
+    "Offer_Type__c": "gift",
+    "Offer_Item_Type__c": "base",
+    "EntryPointCode": "Aditus",
+    "Active__c": true,
+    "Promotion__c": "7012F000000C4KaQAK",
+    "Name": "1AQUV",
+    "Effort_Week__c": "0",
+    "Code__c": "E-0051183",
+    "Channel_Code__c": "Conversion - Telemarketing - Engagement - EGOE"
+  },
+  "baseTemplate": "tags/Tag",
+  "reference": "?Promo_Code__c=P-0052265"
+}

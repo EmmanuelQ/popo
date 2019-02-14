@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "TW",
+    "3Code": "TWN",
+    "iso3166Code": "ISO 3166-2:TW",
+    "isoName": "Taiwan, Province of China",
+    "isoRegion": "ASIA",
+    "isoSubRegion": "TW"
+  },
+  "baseTemplate": "segments/Segment"
+}

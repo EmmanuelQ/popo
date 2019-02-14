@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "CF",
+    "3Code": "CAF",
+    "iso3166Code": "ISO 3166-2:CF",
+    "isoName": "Central African Republic",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

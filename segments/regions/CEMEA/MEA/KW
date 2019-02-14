@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "KW",
+    "3Code": "KWT",
+    "iso3166Code": "ISO 3166-2:KW",
+    "isoName": "Kuwait",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "GF",
+    "3Code": "GUF",
+    "iso3166Code": "ISO 3166-2:GF",
+    "isoName": "French Guiana",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

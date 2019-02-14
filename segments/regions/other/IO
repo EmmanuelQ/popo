@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "IO",
+    "3Code": "IOT",
+    "iso3166Code": "ISO 3166-2:IO",
+    "isoName": "British Indian Ocean Territory",
+    "isoRegion": "Africa",
+    "isoSubRegion": "Sub-Saharan Africa"
+  },
+  "baseTemplate": "segments/Segment"
+}

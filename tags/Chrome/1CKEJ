@@ -1,0 +1,18 @@
+{
+  "attributes": {
+    "CFCCode": "1CKEJ",
+    "Region__c": "GLB",
+    "Offer_Type__c": "student",
+    "Offer_Item_Type__c": "base",
+    "EntryPointCode": "Chrome",
+    "Active__c": true,
+    "Promotion__c": "7012F000000C6IkQAK",
+    "Payment_Terms__c": "0",
+    "Name": "1CKEJ",
+    "Effort_Week__c": "0",
+    "Code__c": "E-0152731",
+    "Channel_Code__c": "Conversion - The Economist apps - Engagement - EGAP"
+  },
+  "baseTemplate": "tags/Tag",
+  "reference": "?Promo_Code__c=P-0152716"
+}

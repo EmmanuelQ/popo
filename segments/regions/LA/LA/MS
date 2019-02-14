@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "MS",
+    "3Code": "MSR",
+    "iso3166Code": "ISO 3166-2:MS",
+    "isoName": "Montserrat",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

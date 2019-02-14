@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "MZ",
+    "3Code": "MOZ",
+    "iso3166Code": "ISO 3166-2:MZ",
+    "isoName": "Mozambique",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

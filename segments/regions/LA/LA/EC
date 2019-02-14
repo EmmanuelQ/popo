@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "EC",
+    "3Code": "ECU",
+    "iso3166Code": "ISO 3166-2:EC",
+    "isoName": "Ecuador",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

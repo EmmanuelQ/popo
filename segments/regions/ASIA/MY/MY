@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "MY",
+    "3Code": "MYS",
+    "iso3166Code": "ISO 3166-2:MY",
+    "isoName": "Malaysia",
+    "isoRegion": "ASIA",
+    "isoSubRegion": "MY"
+  },
+  "baseTemplate": "segments/Segment"
+}

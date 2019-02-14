@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "TC",
+    "3Code": "TCA",
+    "iso3166Code": "ISO 3166-2:TC",
+    "isoName": "Turks and Caicos Islands",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

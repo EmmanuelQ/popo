@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "KR",
+    "3Code": "KOR",
+    "iso3166Code": "ISO 3166-2:KR",
+    "isoName": "Korea (Republic of)",
+    "isoRegion": "ASIA",
+    "isoSubRegion": "KR"
+  },
+  "baseTemplate": "segments/Segment"
+}

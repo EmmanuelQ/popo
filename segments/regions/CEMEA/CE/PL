@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "PL",
+    "3Code": "POL",
+    "iso3166Code": "ISO 3166-2:PL",
+    "isoName": "Poland",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

@@ -1,0 +1,47 @@
+{
+  "segments": [
+    "/segments/regions/CEMEA/CE",
+    "/segments/channels/online"
+  ],
+  "price": [
+    {
+      "name": "charge_1",
+      "label": "Charge 1",
+      "value": "25.00",
+      "currencyCode": "DKK",
+      "type": "onetime",
+      "trigger": "order_date",
+      "repeat_interval": null,
+      "repeat_interval_type": "weeks",
+      "repeat_count": null,
+      "delay_interval": null,
+      "attributes": []
+    },
+    {
+      "name": "charge_2",
+      "label": "Charge 2",
+      "value": "185.00",
+      "currencyCode": "DKK",
+      "type": "recurring",
+      "trigger": "subscription_start",
+      "repeat_interval": 12,
+      "repeat_interval_type": "weeks",
+      "repeat_count": 1,
+      "delay_interval": 0,
+      "attributes": []
+    },
+    {
+      "name": "charge_3",
+      "label": "Charge 3",
+      "value": "625.00",
+      "currencyCode": "DKK",
+      "type": "recurring",
+      "trigger": "delay",
+      "repeat_interval": 13,
+      "repeat_interval_type": "weeks",
+      "repeat_count": null,
+      "delay_interval": 12,
+      "attributes": []
+    }
+  ]
+}

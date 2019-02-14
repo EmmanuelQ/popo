@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "GN",
+    "3Code": "GIN",
+    "iso3166Code": "ISO 3166-2:GN",
+    "isoName": "Guinea",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

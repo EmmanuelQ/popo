@@ -1,0 +1,18 @@
+{
+  "attributes": {
+    "CFCCode": "1CKQT",
+    "Region__c": "LA",
+    "Offer_Type__c": "gift",
+    "Offer_Item_Type__c": "upsell",
+    "EntryPointCode": "RegEdm5",
+    "Active__c": true,
+    "Promotion__c": "7012F000000C6IuQAK",
+    "Payment_Terms__c": "0",
+    "Name": "1CKQT",
+    "Effort_Week__c": "0",
+    "Code__c": "E-0152763",
+    "Channel_Code__c": "Conversion - eDM internal - Engagement - EGED"
+  },
+  "baseTemplate": "tags/Tag",
+  "reference": "?Promo_Code__c=P-0152718"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "ME",
+    "3Code": "MNE",
+    "iso3166Code": "ISO 3166-2:ME",
+    "isoName": "Montenegro",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

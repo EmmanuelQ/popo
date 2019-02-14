@@ -1,0 +1,8 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "PH",
+    "3Code": "PHS"
+  },
+  "baseTemplate": "segments/Segment"
+}

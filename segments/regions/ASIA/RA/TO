@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "TO",
+    "3Code": "TON",
+    "iso3166Code": "ISO 3166-2:TO",
+    "isoName": "Tonga",
+    "isoRegion": "ASIA",
+    "isoSubRegion": "RA"
+  },
+  "baseTemplate": "segments/Segment"
+}

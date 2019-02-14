@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "FO",
+    "3Code": "FRO",
+    "iso3166Code": "ISO 3166-2:FO",
+    "isoName": "Faroe Islands",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

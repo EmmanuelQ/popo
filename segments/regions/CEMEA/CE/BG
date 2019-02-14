@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "BG",
+    "3Code": "BGR",
+    "iso3166Code": "ISO 3166-2:BG",
+    "isoName": "Bulgaria",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

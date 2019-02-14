@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "RU",
+    "3Code": "RUS",
+    "iso3166Code": "ISO 3166-2:RU",
+    "isoName": "Russian Federation",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

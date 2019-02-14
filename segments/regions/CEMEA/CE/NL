@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "NL",
+    "3Code": "NLD",
+    "iso3166Code": "ISO 3166-2:NL",
+    "isoName": "Netherlands",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

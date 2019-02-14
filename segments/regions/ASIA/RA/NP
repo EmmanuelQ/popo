@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "NP",
+    "3Code": "NPL",
+    "iso3166Code": "ISO 3166-2:NP",
+    "isoName": "Nepal",
+    "isoRegion": "ASIA",
+    "isoSubRegion": "RA"
+  },
+  "baseTemplate": "segments/Segment"
+}

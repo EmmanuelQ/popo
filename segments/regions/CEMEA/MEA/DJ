@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "DJ",
+    "3Code": "DJI",
+    "iso3166Code": "ISO 3166-2:DJ",
+    "isoName": "Djibouti",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

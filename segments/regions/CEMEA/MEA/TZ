@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "TZ",
+    "3Code": "TZA",
+    "iso3166Code": "ISO 3166-2:TZ",
+    "isoName": "Tanzania, United Republic of",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

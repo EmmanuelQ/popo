@@ -1,0 +1,14 @@
+{
+  "attributes": {
+    "EntryPointCode": "student-subscriptions",
+    "Active__c": true,
+    "Promotion__c": "7012F000000C6J9QAK",
+    "Payment_Terms__c": "0",
+    "Name": "student-subscriptions",
+    "Effort_Week__c": "0",
+    "Code__c": "E-0157991",
+    "Channel_Code__c": "Conversion - Search organic - Engagement - EGSO"
+  },
+  "baseTemplate": "tags/Tag",
+  "reference": "?Promo_Code__c=P-0152721"
+}

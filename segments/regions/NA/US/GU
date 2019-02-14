@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "GU",
+    "3Code": "GUM",
+    "iso3166Code": "ISO 3166-2:GU",
+    "isoName": "Guam",
+    "isoRegion": "NA",
+    "isoSubRegion": "US"
+  },
+  "baseTemplate": "segments/Segment"
+}

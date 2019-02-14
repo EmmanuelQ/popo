@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "GS",
+    "3Code": "SGS",
+    "iso3166Code": "ISO 3166-2:GS",
+    "isoName": "South Georgia and the South Sandwich Islands",
+    "isoRegion": "Americas",
+    "isoSubRegion": "Latin America and the Caribbean"
+  },
+  "baseTemplate": "segments/Segment"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "RO",
+    "3Code": "ROU",
+    "iso3166Code": "ISO 3166-2:RO",
+    "isoName": "Romania",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

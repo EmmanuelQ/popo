@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "MC",
+    "3Code": "MCO",
+    "iso3166Code": "ISO 3166-2:MC",
+    "isoName": "Monaco",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

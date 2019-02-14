@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "YT",
+    "3Code": "MYT",
+    "iso3166Code": "ISO 3166-2:YT",
+    "isoName": "Mayotte",
+    "isoRegion": "Africa",
+    "isoSubRegion": "Sub-Saharan Africa"
+  },
+  "baseTemplate": "segments/Segment"
+}

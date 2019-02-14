@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "LR",
+    "3Code": "LBR",
+    "iso3166Code": "ISO 3166-2:LR",
+    "isoName": "Liberia",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

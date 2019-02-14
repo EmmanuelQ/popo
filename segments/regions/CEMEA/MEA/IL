@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "IL",
+    "3Code": "ISR",
+    "iso3166Code": "ISO 3166-2:IL",
+    "isoName": "Israel",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

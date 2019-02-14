@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "PS",
+    "3Code": "PSE",
+    "iso3166Code": "ISO 3166-2:PS",
+    "isoName": "Palestine, State of",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

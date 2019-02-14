@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "BM",
+    "3Code": "BMU",
+    "iso3166Code": "ISO 3166-2:BM",
+    "isoName": "Bermuda",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "IE",
+    "3Code": "IRL",
+    "iso3166Code": "ISO 3166-2:IE",
+    "isoName": "Ireland",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

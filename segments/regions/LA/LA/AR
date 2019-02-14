@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "AR",
+    "3Code": "ARG",
+    "iso3166Code": "ISO 3166-2:AR",
+    "isoName": "Argentina",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

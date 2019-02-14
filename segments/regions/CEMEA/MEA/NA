@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "NA",
+    "3Code": "NAM",
+    "iso3166Code": "ISO 3166-2:NA",
+    "isoName": "Namibia",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

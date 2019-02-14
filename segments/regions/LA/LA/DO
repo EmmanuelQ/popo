@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "DO",
+    "3Code": "DOM",
+    "iso3166Code": "ISO 3166-2:DO",
+    "isoName": "Dominican Republic",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

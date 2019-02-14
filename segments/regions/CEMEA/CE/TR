@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "TR",
+    "3Code": "TUR",
+    "iso3166Code": "ISO 3166-2:TR",
+    "isoName": "Turkey",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

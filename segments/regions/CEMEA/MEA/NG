@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "NG",
+    "3Code": "NGA",
+    "iso3166Code": "ISO 3166-2:NG",
+    "isoName": "Nigeria",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

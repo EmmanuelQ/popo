@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "SG",
+    "3Code": "SGP",
+    "iso3166Code": "ISO 3166-2:SG",
+    "isoName": "Singapore",
+    "isoRegion": "ASIA",
+    "isoSubRegion": "SG"
+  },
+  "baseTemplate": "segments/Segment"
+}

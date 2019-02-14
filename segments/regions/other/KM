@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "KM",
+    "3Code": "COM",
+    "iso3166Code": "ISO 3166-2:KM",
+    "isoName": "Comoros",
+    "isoRegion": "Africa",
+    "isoSubRegion": "Sub-Saharan Africa"
+  },
+  "baseTemplate": "segments/Segment"
+}

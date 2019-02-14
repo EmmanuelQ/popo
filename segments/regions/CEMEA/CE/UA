@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "UA",
+    "3Code": "UKR",
+    "iso3166Code": "ISO 3166-2:UA",
+    "isoName": "Ukraine",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

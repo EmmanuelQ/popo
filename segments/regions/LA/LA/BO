@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "BO",
+    "3Code": "BOL",
+    "iso3166Code": "ISO 3166-2:BO",
+    "isoName": "Bolivia (Plurinational State of)",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

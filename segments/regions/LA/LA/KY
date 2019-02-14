@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "KY",
+    "3Code": "CYM",
+    "iso3166Code": "ISO 3166-2:KY",
+    "isoName": "Cayman Islands",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

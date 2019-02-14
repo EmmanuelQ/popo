@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "BQ",
+    "3Code": "BES",
+    "iso3166Code": "ISO 3166-2:BQ",
+    "isoName": "Bonaire, Sint Eustatius and Saba",
+    "isoRegion": "Americas",
+    "isoSubRegion": "Latin America and the Caribbean"
+  },
+  "baseTemplate": "segments/Segment"
+}

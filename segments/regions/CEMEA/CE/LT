@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "LT",
+    "3Code": "LTU",
+    "iso3166Code": "ISO 3166-2:LT",
+    "isoName": "Lithuania",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

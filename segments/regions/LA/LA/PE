@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "PE",
+    "3Code": "PER",
+    "iso3166Code": "ISO 3166-2:PE",
+    "isoName": "Peru",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

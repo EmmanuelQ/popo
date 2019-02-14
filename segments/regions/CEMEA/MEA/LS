@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "LS",
+    "3Code": "LSO",
+    "iso3166Code": "ISO 3166-2:LS",
+    "isoName": "Lesotho",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

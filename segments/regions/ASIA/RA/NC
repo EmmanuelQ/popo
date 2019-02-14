@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "NC",
+    "3Code": "NCL",
+    "iso3166Code": "ISO 3166-2:NC",
+    "isoName": "New Caledonia",
+    "isoRegion": "ASIA",
+    "isoSubRegion": "RA"
+  },
+  "baseTemplate": "segments/Segment"
+}

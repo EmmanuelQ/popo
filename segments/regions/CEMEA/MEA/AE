@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "AE",
+    "3Code": "ARE",
+    "iso3166Code": "ISO 3166-2:AE",
+    "isoName": "United Arab Emirates",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

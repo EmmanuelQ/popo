@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "HR",
+    "3Code": "HRV",
+    "iso3166Code": "ISO 3166-2:HR",
+    "isoName": "Croatia",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

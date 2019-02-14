@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "JE",
+    "3Code": "JEY",
+    "iso3166Code": "ISO 3166-2:JE",
+    "isoName": "Jersey",
+    "isoRegion": "Europe",
+    "isoSubRegion": "Northern Europe"
+  },
+  "baseTemplate": "segments/Segment"
+}

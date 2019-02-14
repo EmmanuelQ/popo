@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "BB",
+    "3Code": "BRB",
+    "iso3166Code": "ISO 3166-2:BB",
+    "isoName": "Barbados",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

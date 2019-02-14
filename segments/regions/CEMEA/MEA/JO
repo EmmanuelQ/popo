@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "JO",
+    "3Code": "JOR",
+    "iso3166Code": "ISO 3166-2:JO",
+    "isoName": "Jordan",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

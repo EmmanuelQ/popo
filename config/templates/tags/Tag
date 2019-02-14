@@ -1,0 +1,22 @@
+{
+  "category": "template",
+  "general_params": [
+    {
+      "name": "name",
+      "type": "string",
+      "label": "Name"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "2Code",
+      "label": "2-Char Code",
+      "type": "string"
+    },
+    {
+      "name": "3Code",
+      "label": "3-Char Code",
+      "type": "string"
+    }
+  ]
+}

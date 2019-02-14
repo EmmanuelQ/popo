@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "PG",
+    "3Code": "PNG",
+    "iso3166Code": "ISO 3166-2:PG",
+    "isoName": "Papua New Guinea",
+    "isoRegion": "ASIA",
+    "isoSubRegion": "RA"
+  },
+  "baseTemplate": "segments/Segment"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "ZM",
+    "3Code": "ZMB",
+    "iso3166Code": "ISO 3166-2:ZM",
+    "isoName": "Zambia",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

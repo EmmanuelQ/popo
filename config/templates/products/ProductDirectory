@@ -1,0 +1,22 @@
+{
+  "category": "template",
+  "general_params": [
+    {
+      "name": "name",
+      "type": "string",
+      "label": "Name"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Campaign_Code__c",
+      "label": "Campaign Code",
+      "type": "string"
+    },
+    {
+      "name": "Promo_Code__c",
+      "label": "Promo Code",
+      "type": "string"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "GL",
+    "3Code": "GRL",
+    "iso3166Code": "ISO 3166-2:GL",
+    "isoName": "Greenland",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "FM",
+    "3Code": "FSM",
+    "iso3166Code": "ISO 3166-2:FM",
+    "isoName": "Micronesia (Federated States of)",
+    "isoRegion": "NA",
+    "isoSubRegion": "US"
+  },
+  "baseTemplate": "segments/Segment"
+}

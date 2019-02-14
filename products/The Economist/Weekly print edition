@@ -1,0 +1,26 @@
+{
+  "category": "product",
+  "attributes": {
+    "Product_Format__c": "Print Only",
+    "Family": "The Economist",
+    "sku": "Weekly print edition"
+  },
+  "baseTemplate": "products/Product",
+  "integration": {
+    "zuora": {
+      "productRatePlanId": "2c91a0fb61c687cc0161d7c6b83f539e",
+      "charges": [
+        {
+          "split": 1,
+          "productRatePlanChargeId": "2c91a0f861c680070161d7c6b8d81ff6",
+          "name": "Print"
+        }
+      ],
+      "billingEntity": "EMEA"
+    },
+    "salesforce": {
+      "productId": "01t2F0000017aIiQAI",
+      "name": "Weekly print edition"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "GF",
+    "3Code": "GFT"
+  },
+  "baseTemplate": "segments/Segment"
+}

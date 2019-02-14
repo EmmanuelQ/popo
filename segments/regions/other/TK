@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "TK",
+    "3Code": "TKL",
+    "iso3166Code": "ISO 3166-2:TK",
+    "isoName": "Tokelau",
+    "isoRegion": "Oceania",
+    "isoSubRegion": "Polynesia"
+  },
+  "baseTemplate": "segments/Segment"
+}

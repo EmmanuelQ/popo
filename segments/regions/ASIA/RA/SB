@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "SB",
+    "3Code": "SLB",
+    "iso3166Code": "ISO 3166-2:SB",
+    "isoName": "Solomon Islands",
+    "isoRegion": "ASIA",
+    "isoSubRegion": "RA"
+  },
+  "baseTemplate": "segments/Segment"
+}

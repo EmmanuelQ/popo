@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "VE",
+    "3Code": "VEN",
+    "iso3166Code": "ISO 3166-2:VE",
+    "isoName": "Venezuela (Bolivarian Republic of)",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

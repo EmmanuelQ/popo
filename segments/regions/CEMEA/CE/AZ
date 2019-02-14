@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "AZ",
+    "3Code": "AZE",
+    "iso3166Code": "ISO 3166-2:AZ",
+    "isoName": "Azerbaijan",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

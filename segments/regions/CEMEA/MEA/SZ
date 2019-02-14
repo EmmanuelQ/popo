@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "SZ",
+    "3Code": "SWZ",
+    "iso3166Code": "ISO 3166-2:SZ",
+    "isoName": "Eswatini",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

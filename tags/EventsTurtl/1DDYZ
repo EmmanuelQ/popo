@@ -1,0 +1,18 @@
+{
+  "attributes": {
+    "CFCCode": "1DDYZ",
+    "Region__c": "GLB",
+    "Offer_Type__c": "student",
+    "Offer_Item_Type__c": "base",
+    "EntryPointCode": "EventsTurtl",
+    "Active__c": true,
+    "Promotion__c": "7012F000000C6J4QAK",
+    "Payment_Terms__c": "0",
+    "Name": "1DDYZ",
+    "Effort_Week__c": "0",
+    "Code__c": "E-0161945",
+    "Channel_Code__c": "Conversion - Economist.com - Engagement - EGEC"
+  },
+  "baseTemplate": "tags/Tag",
+  "reference": "?Promo_Code__c=P-0152720"
+}

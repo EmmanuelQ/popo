@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "UM",
+    "3Code": "UMI",
+    "iso3166Code": "ISO 3166-2:UM",
+    "isoName": "United States Minor Outlying Islands",
+    "isoRegion": "NA",
+    "isoSubRegion": "US"
+  },
+  "baseTemplate": "segments/Segment"
+}

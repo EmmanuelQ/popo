@@ -1,0 +1,18 @@
+{
+  "attributes": {
+    "CFCCode": "1CPSX",
+    "Region__c": "LA",
+    "Offer_Type__c": "regular",
+    "Offer_Item_Type__c": "base",
+    "EntryPointCode": "Ribbon",
+    "Active__c": true,
+    "Promotion__c": "7012F000000C6IpQAK",
+    "Payment_Terms__c": "0",
+    "Name": "1CPSX",
+    "Effort_Week__c": "0",
+    "Code__c": "E-0157726",
+    "Channel_Code__c": "Conversion - Economist.com - Engagement - EGEC"
+  },
+  "baseTemplate": "tags/Tag",
+  "reference": "?Promo_Code__c=P-0152717"
+}

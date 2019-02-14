@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "MW",
+    "3Code": "MWI",
+    "iso3166Code": "ISO 3166-2:MW",
+    "isoName": "Malawi",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

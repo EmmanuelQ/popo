@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "GB",
+    "3Code": "GBR",
+    "iso3166Code": "ISO 3166-2:GB",
+    "isoName": "United Kingdom of Great Britain and Northern Ireland",
+    "isoRegion": "UK",
+    "isoSubRegion": "UK"
+  },
+  "baseTemplate": "segments/Segment"
+}

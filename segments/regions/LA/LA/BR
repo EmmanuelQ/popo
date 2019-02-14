@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "BR",
+    "3Code": "BRA",
+    "iso3166Code": "ISO 3166-2:BR",
+    "isoName": "Brazil",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

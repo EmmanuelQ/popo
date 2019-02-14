@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "CW",
+    "3Code": "CUW",
+    "iso3166Code": "ISO 3166-2:CW",
+    "isoName": "Curaçao",
+    "isoRegion": "Americas",
+    "isoSubRegion": "Latin America and the Caribbean"
+  },
+  "baseTemplate": "segments/Segment"
+}

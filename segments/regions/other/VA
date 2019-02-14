@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "VA",
+    "3Code": "VAT",
+    "iso3166Code": "ISO 3166-2:VA",
+    "isoName": "Holy See",
+    "isoRegion": "Europe",
+    "isoSubRegion": "Southern Europe"
+  },
+  "baseTemplate": "segments/Segment"
+}

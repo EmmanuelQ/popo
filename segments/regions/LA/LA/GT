@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "GT",
+    "3Code": "GTM",
+    "iso3166Code": "ISO 3166-2:GT",
+    "isoName": "Guatemala",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

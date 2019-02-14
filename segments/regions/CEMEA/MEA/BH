@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "BH",
+    "3Code": "BHR",
+    "iso3166Code": "ISO 3166-2:BH",
+    "isoName": "Bahrain",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

@@ -1,0 +1,14 @@
+{
+  "attributes": {
+    "EntryPointCode": "CampaignEdm",
+    "Active__c": true,
+    "Promotion__c": "7012F000000C6IuQAK",
+    "Payment_Terms__c": "0",
+    "Name": "CampaignEdm",
+    "Effort_Week__c": "0",
+    "Code__c": "E-0152758",
+    "Channel_Code__c": "Conversion - eDM internal - Engagement - EGED"
+  },
+  "baseTemplate": "tags/Tag",
+  "reference": "?Promo_Code__c=P-0152718"
+}

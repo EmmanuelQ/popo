@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "VI",
+    "3Code": "VIR",
+    "iso3166Code": "ISO 3166-2:VI",
+    "isoName": "Virgin Islands (U.S.)",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

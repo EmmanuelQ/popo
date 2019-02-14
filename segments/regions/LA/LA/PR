@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "PR",
+    "3Code": "PRI",
+    "iso3166Code": "ISO 3166-2:PR",
+    "isoName": "Puerto Rico",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

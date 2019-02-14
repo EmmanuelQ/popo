@@ -1,0 +1,130 @@
+{
+  "category": "template",
+  "general_params": [
+    {
+      "name": "name",
+      "type": "string",
+      "label": "Name"
+    },
+    {
+      "name": "validFrom",
+      "type": "date",
+      "label": "Valid From"
+    },
+    {
+      "name": "validTo",
+      "type": "date",
+      "label": "Valid To"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "OfferItem_Code__c",
+      "label": "Offer Item Code",
+      "type": "string"
+    },
+    {
+      "name": "CTA_Txt",
+      "label": "CTA",
+      "type": "string"
+    },
+    {
+      "name": "Payment_Term__c",
+      "type": "picklist",
+      "label": "Payment Term",
+      "options": [
+        {
+          "id": "upon_receipt",
+          "label": "Due Upon Receipt"
+        },
+        {
+          "id": "on_order",
+          "label": "Due On Order"
+        },
+        {
+          "id": "na",
+          "label": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "Auto_Renewal__c",
+      "label": "Auto Renewal",
+      "type": "picklist",
+      "options": [
+        {
+          "id": "yes",
+          "label": "Yes"
+        },
+        {
+          "id": "no",
+          "label": "No"
+        },
+        {
+          "id": "na",
+          "label": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "Initial_Term__c",
+      "label": "Initial Term",
+      "type": "picklist",
+      "options": [
+        {
+          "id": "12w",
+          "label": "012W"
+        },
+        {
+          "id": "52w",
+          "label": "052W"
+        },
+        {
+          "id": "104w",
+          "label": "104W"
+        },
+        {
+          "id": "156w",
+          "label": "156W"
+        },
+        {
+          "id": "na",
+          "label": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "Offer_Type1__c",
+      "label": "Offer Type",
+      "type": "picklist",
+      "options": [
+        {
+          "id": "gift",
+          "label": "Gift"
+        },
+        {
+          "id": "student",
+          "label": "Student"
+        },
+        {
+          "id": "regular",
+          "label": "Regular"
+        },
+        {
+          "id": "na",
+          "label": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "Rate_Type__c",
+      "label": "Rate Type",
+      "type": "string"
+    },
+    {
+      "name": "price",
+      "label": "Price",
+      "type": "price"
+    }
+  ]
+}

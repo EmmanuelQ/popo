@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "GR",
+    "3Code": "GRC",
+    "iso3166Code": "ISO 3166-2:GR",
+    "isoName": "Greece",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

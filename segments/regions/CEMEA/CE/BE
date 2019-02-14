@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "BE",
+    "3Code": "BEL",
+    "iso3166Code": "ISO 3166-2:BE",
+    "isoName": "Belgium",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

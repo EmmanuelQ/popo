@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "PH",
+    "3Code": "PHL",
+    "iso3166Code": "ISO 3166-2:PH",
+    "isoName": "Philippines",
+    "isoRegion": "ASIA",
+    "isoSubRegion": "RA"
+  },
+  "baseTemplate": "segments/Segment"
+}

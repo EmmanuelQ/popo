@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "DE",
+    "3Code": "DEU",
+    "iso3166Code": "ISO 3166-2:DE",
+    "isoName": "Germany",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

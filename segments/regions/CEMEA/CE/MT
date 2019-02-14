@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "MT",
+    "3Code": "MLT",
+    "iso3166Code": "ISO 3166-2:MT",
+    "isoName": "Malta",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

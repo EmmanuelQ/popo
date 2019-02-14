@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "ER",
+    "3Code": "ERI",
+    "iso3166Code": "ISO 3166-2:ER",
+    "isoName": "Eritrea",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

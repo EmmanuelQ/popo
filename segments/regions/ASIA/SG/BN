@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "BN",
+    "3Code": "BRN",
+    "iso3166Code": "ISO 3166-2:BN",
+    "isoName": "Brunei Darussalam",
+    "isoRegion": "ASIA",
+    "isoSubRegion": "SG"
+  },
+  "baseTemplate": "segments/Segment"
+}

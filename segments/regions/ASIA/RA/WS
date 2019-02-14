@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "WS",
+    "3Code": "WSM",
+    "iso3166Code": "ISO 3166-2:WS",
+    "isoName": "Samoa",
+    "isoRegion": "ASIA",
+    "isoSubRegion": "RA"
+  },
+  "baseTemplate": "segments/Segment"
+}

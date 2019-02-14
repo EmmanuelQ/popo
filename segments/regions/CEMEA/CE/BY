@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "BY",
+    "3Code": "BLR",
+    "iso3166Code": "ISO 3166-2:BY",
+    "isoName": "Belarus",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

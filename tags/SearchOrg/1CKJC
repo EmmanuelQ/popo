@@ -1,0 +1,18 @@
+{
+  "attributes": {
+    "CFCCode": "1CKJC",
+    "Region__c": "LA",
+    "Offer_Type__c": "student",
+    "Offer_Item_Type__c": "base",
+    "EntryPointCode": "SearchOrg",
+    "Active__c": true,
+    "Promotion__c": "7012F000000C6J9QAK",
+    "Payment_Terms__c": "0",
+    "Name": "1CKJC",
+    "Effort_Week__c": "0",
+    "Code__c": "E-0152743",
+    "Channel_Code__c": "Conversion - Search organic - Engagement - EGSO"
+  },
+  "baseTemplate": "tags/Tag",
+  "reference": "?Promo_Code__c=P-0152721"
+}

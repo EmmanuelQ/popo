@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "SC",
+    "3Code": "SYC",
+    "iso3166Code": "ISO 3166-2:SC",
+    "isoName": "Seychelles",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

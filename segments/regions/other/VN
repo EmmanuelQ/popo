@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "VN",
+    "3Code": "VNM",
+    "iso3166Code": "ISO 3166-2:VN",
+    "isoName": "Viet Nam",
+    "isoRegion": "Asia",
+    "isoSubRegion": "South-eastern Asia"
+  },
+  "baseTemplate": "segments/Segment"
+}

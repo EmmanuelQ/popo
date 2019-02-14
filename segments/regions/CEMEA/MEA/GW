@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "GW",
+    "3Code": "GNB",
+    "iso3166Code": "ISO 3166-2:GW",
+    "isoName": "Guinea-Bissau",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

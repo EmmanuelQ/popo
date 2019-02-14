@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "AD",
+    "3Code": "AND",
+    "iso3166Code": "ISO 3166-2:AD",
+    "isoName": "Andorra",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

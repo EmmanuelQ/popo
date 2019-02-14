@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "EH",
+    "3Code": "ESH",
+    "iso3166Code": "ISO 3166-2:EH",
+    "isoName": "Western Sahara",
+    "isoRegion": "Africa",
+    "isoSubRegion": "Northern Africa"
+  },
+  "baseTemplate": "segments/Segment"
+}

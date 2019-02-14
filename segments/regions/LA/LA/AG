@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "AG",
+    "3Code": "ATG",
+    "iso3166Code": "ISO 3166-2:AG",
+    "isoName": "Antigua and Barbuda",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

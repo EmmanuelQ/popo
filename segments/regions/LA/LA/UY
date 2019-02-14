@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "UY",
+    "3Code": "URY",
+    "iso3166Code": "ISO 3166-2:UY",
+    "isoName": "Uruguay",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

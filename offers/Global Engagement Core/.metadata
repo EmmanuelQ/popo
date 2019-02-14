@@ -1,0 +1,22 @@
+{
+  "attributes": {
+    "Campaign_Code__c": "C-0001451",
+    "Is_Renewable__c": true,
+    "Is_Refundable__c": true,
+    "Promo_Code__c": "P-0160731",
+    "Offer_Code__c": "O-0159911",
+    "Refundable__c": false,
+    "primary_color": "#F47C24",
+    "secondary_color": "#2b2145",
+    "tertiary_color": "#c03467"
+  },
+  "validFrom": "20181215",
+  "validTo": "20190215",
+  "assets": [],
+  "status": "approved",
+  "description": "Campaign for the christmas season!",
+  "tags": [
+    "/tags/Telemarketing/1CKIM"
+  ],
+  "comments": []
+}

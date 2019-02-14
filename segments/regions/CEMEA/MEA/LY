@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "LY",
+    "3Code": "LBY",
+    "iso3166Code": "ISO 3166-2:LY",
+    "isoName": "Libya",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

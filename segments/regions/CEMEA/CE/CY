@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "CY",
+    "3Code": "CYP",
+    "iso3166Code": "ISO 3166-2:CY",
+    "isoName": "Cyprus",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

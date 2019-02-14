@@ -1,0 +1,87 @@
+{
+  "category": "template",
+  "general_params": [
+    {
+      "name": "name",
+      "type": "string",
+      "label": "Name"
+    },
+    {
+      "name": "headline",
+      "type": "string",
+      "label": "Headline"
+    },
+    {
+      "name": "subline",
+      "type": "string",
+      "label": "Subline"
+    },
+    {
+      "name": "validFrom",
+      "type": "date",
+      "label": "Valid From"
+    },
+    {
+      "name": "validTo",
+      "type": "date",
+      "label": "Valid To"
+    },
+    {
+      "name": "status",
+      "type": "status",
+      "label": "Status"
+    },
+    {
+      "name": "description",
+      "type": "richText",
+      "label": "Description"
+    },
+    {
+      "name": "tags",
+      "type": "chevron",
+      "label": "Tags"
+    }
+  ],
+  "attributes": [
+    {
+      "name": "Campaign_Code__c",
+      "label": "Campaign Code",
+      "type": "string"
+    },
+    {
+      "name": "Promo_Code__c",
+      "label": "Promo Code",
+      "type": "string"
+    },
+    {
+      "name": "Is_Renewable__c",
+      "label": "IsRenewable",
+      "type": "boolean"
+    },
+    {
+      "name": "Is_Refundable__c",
+      "label": "IsRefundable",
+      "type": "boolean"
+    },
+    {
+      "name": "Refundable__c",
+      "label": "Refundable",
+      "type": "boolean"
+    },
+    {
+      "name": "primary_color",
+      "type": "color",
+      "label": "Primary Color"
+    },
+    {
+      "name": "secondary_color",
+      "type": "color",
+      "label": "Secondary Color"
+    },
+    {
+      "name": "tertiary_color",
+      "type": "color",
+      "label": "Tertiary Color"
+    }
+  ]
+}

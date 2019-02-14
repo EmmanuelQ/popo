@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "AT",
+    "3Code": "AUT",
+    "iso3166Code": "ISO 3166-2:AT",
+    "isoName": "Austria",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

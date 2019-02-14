@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "NZ",
+    "3Code": "NZL",
+    "iso3166Code": "ISO 3166-2:NZ",
+    "isoName": "New Zealand",
+    "isoRegion": "ASIA",
+    "isoSubRegion": "NZ"
+  },
+  "baseTemplate": "segments/Segment"
+}

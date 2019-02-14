@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "SV",
+    "3Code": "SLV",
+    "iso3166Code": "ISO 3166-2:SV",
+    "isoName": "El Salvador",
+    "isoRegion": "LA",
+    "isoSubRegion": "LA"
+  },
+  "baseTemplate": "segments/Segment"
+}

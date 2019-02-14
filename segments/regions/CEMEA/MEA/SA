@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "SA",
+    "3Code": "SAU",
+    "iso3166Code": "ISO 3166-2:SA",
+    "isoName": "Saudi Arabia",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

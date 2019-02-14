@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "LI",
+    "3Code": "LIE",
+    "iso3166Code": "ISO 3166-2:LI",
+    "isoName": "Liechtenstein",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

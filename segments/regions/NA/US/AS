@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "AS",
+    "3Code": "ASM",
+    "iso3166Code": "ISO 3166-2:AS",
+    "isoName": "American Samoa",
+    "isoRegion": "NA",
+    "isoSubRegion": "US"
+  },
+  "baseTemplate": "segments/Segment"
+}

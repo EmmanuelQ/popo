@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "CA",
+    "3Code": "CAN",
+    "iso3166Code": "ISO 3166-2:CA",
+    "isoName": "Canada",
+    "isoRegion": "NA",
+    "isoSubRegion": "CA"
+  },
+  "baseTemplate": "segments/Segment"
+}

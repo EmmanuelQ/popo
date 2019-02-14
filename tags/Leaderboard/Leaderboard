@@ -1,0 +1,14 @@
+{
+  "attributes": {
+    "EntryPointCode": "Leaderboard",
+    "Active__c": true,
+    "Promotion__c": "7012F000000C6IpQAK",
+    "Payment_Terms__c": "0",
+    "Name": "Leaderboard",
+    "Effort_Week__c": "0",
+    "Code__c": "E-0178057",
+    "Channel_Code__c": "Conversion - Economist.com - Engagement - EGEC"
+  },
+  "baseTemplate": "tags/Tag",
+  "reference": "?Promo_Code__c=P-0152717"
+}

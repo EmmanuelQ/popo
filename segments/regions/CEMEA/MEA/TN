@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "TN",
+    "3Code": "TUN",
+    "iso3166Code": "ISO 3166-2:TN",
+    "isoName": "Tunisia",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

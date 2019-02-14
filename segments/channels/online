@@ -1,0 +1,8 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "ON",
+    "3Code": "ONL"
+  },
+  "baseTemplate": "segments/Segment"
+}

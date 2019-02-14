@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "RS",
+    "3Code": "SRB",
+    "iso3166Code": "ISO 3166-2:RS",
+    "isoName": "Serbia",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

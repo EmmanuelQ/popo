@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "CH",
+    "3Code": "CHE",
+    "iso3166Code": "ISO 3166-2:CH",
+    "isoName": "Switzerland",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

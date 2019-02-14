@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "BJ",
+    "3Code": "BEN",
+    "iso3166Code": "ISO 3166-2:BJ",
+    "isoName": "Benin",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

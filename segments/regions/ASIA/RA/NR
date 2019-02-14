@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "NR",
+    "3Code": "NRU",
+    "iso3166Code": "ISO 3166-2:NR",
+    "isoName": "Nauru",
+    "isoRegion": "ASIA",
+    "isoSubRegion": "RA"
+  },
+  "baseTemplate": "segments/Segment"
+}

@@ -1,0 +1,18 @@
+{
+  "attributes": {
+    "CFCCode": "1EESA",
+    "Region__c": "GLB",
+    "Offer_Type__c": "regular",
+    "Offer_Item_Type__c": "base",
+    "EntryPointCode": "EdmFreeCopy",
+    "Active__c": true,
+    "Promotion__c": "7012F000000C6IuQAK",
+    "Payment_Terms__c": "0",
+    "Name": "1EESA",
+    "Effort_Week__c": "0",
+    "Code__c": "E-0179642",
+    "Channel_Code__c": "Conversion - eDM internal - Engagement - EGED"
+  },
+  "baseTemplate": "tags/Tag",
+  "reference": "?Promo_Code__c=P-0152718"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "MR",
+    "3Code": "MRT",
+    "iso3166Code": "ISO 3166-2:MR",
+    "isoName": "Mauritania",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

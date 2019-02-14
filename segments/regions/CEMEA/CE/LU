@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "LU",
+    "3Code": "LUX",
+    "iso3166Code": "ISO 3166-2:LU",
+    "isoName": "Luxembourg",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "CE"
+  },
+  "baseTemplate": "segments/Segment"
+}

@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "LK",
+    "3Code": "LKA",
+    "iso3166Code": "ISO 3166-2:LK",
+    "isoName": "Sri Lanka",
+    "isoRegion": "ASIA",
+    "isoSubRegion": "RA"
+  },
+  "baseTemplate": "segments/Segment"
+}

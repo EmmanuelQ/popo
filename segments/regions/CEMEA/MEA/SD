@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "SD",
+    "3Code": "SDN",
+    "iso3166Code": "ISO 3166-2:SD",
+    "isoName": "Sudan",
+    "isoRegion": "CEMEA",
+    "isoSubRegion": "MEA"
+  },
+  "baseTemplate": "segments/Segment"
+}

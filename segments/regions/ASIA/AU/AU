@@ -1,0 +1,12 @@
+{
+  "category": "segment",
+  "attributes": {
+    "2Code": "AU",
+    "3Code": "AUS",
+    "iso3166Code": "ISO 3166-2:AU",
+    "isoName": "Australia",
+    "isoRegion": "ASIA",
+    "isoSubRegion": "AU"
+  },
+  "baseTemplate": "segments/Segment"
+}
