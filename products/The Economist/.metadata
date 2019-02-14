@@ -1,3 +1,5 @@
 {
-  "attributes": {}
+  "attributes": {
+    "Campaign_Code__c": "ew"
+  }
 }
