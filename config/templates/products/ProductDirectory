@@ -17,6 +17,11 @@
       "name": "Promo_Code__c",
       "label": "Promo Code",
       "type": "string"
+    },
+    {
+      "name": "knina",
+      "type": "numeric",
+      "label": "with"
     }
   ]
 }
