@@ -3,6 +3,7 @@
   "attributes": {
     "Product_Format__c": "Print Only",
     "Family": "The Economist",
+    "bobby": "bobby",
     "sku": "Audio edition",
     "category": "template",
     "general_params": [
