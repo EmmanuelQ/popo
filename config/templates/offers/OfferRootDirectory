@@ -82,6 +82,11 @@
       "name": "tertiary_color",
       "type": "color",
       "label": "Tertiary Color"
+    },
+    {
+      "name": "wizard",
+      "type": "boolean",
+      "label": "of"
     }
   ]
 }
